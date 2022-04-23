@@ -1,0 +1,23 @@
+.color_marca{
+    color: yellow;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.color_marca:hover{
+    color: purple;
+}
+
+.color_As{
+    color: purple;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.color_As:hover{
+    color: yellow;
+}
